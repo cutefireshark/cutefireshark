@@ -7,10 +7,13 @@
 
 ## Skills
 
-- 💬 Language : JavaScript(ES6+), TypeScript, PHP, HTML5, CSS3
-- 🌱 Frontend : React, React-Redux, Redux-Toolkit, Angular, Next.js, TailwindCSS, Material-UI, Bootstrap
-- 🔭 Backend : Node.js, ExpressJS, RESTful APIs, PostgreSQL, SQL, GraphQL
-- 🔥 Version Control: Git, Bitbucket
+- Language : JavaScript(ES6+), TypeScript, PHP, HTML5, CSS3
+- Frontend : React, React-Redux, Redux-Toolkit, Angular, Next.js, TailwindCSS, Material-UI, Bootstrap
+- Backend : Node.js, ExpressJS, RESTful APIs, PostgreSQL, SQL, GraphQL
+- Version Control: Git, Bitbucket
+- Testing Frameworks: Jest, Enzyme, Cypress
+- Deployment & CI/CD Tools: Docker, Jenkins, GitHub Actions
+
   
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
